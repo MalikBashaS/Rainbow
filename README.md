@@ -1,2 +1,1 @@
-# Rainbow
-colors 1..2...3
+# Rainbow colors 1..2...3
